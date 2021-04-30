@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Letrapamboleros1";
+    src: url("../fuentes/Freshman.ttf");
+}
+@font-face {
+    font-family: "LetraPamboleros2";
+    src: url("archivos\fuentes\Hey November.ttf");
+}
+
+}
+@font-face {
+    font-family: "fuentecool";
+    src: url("archivos\fuentes\Orelega_One\OrelegaOne-Regular.ttf");
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.menu {
+   color: white;
+   font-family: "Letrapamboleros1";
+   border-bottom: 4px solid rgb(240, 204, 48);
+   font-size: 20px;
+}
+
+.titulo-pambolero{
+    font-family: 'LetraPamboleros1';
+    color: rgb(240, 204, 48);
+    font-size: 26px;
+}
+
+.titulo-pambolero-november {
+    font-family: 'LetraPamboleros2';
+    color: rgb(240, 204, 48);
+    font-size: 90px;
+}
+
+
+.color-amarillo{
+    color: rgb(240, 204, 48);
+}
+
+.color-negro{
+    color: black;
+}
+
+.borde-amarillo{
+    border-color: rgb(240, 204, 48) !important;
+}
+
+.bordes-redondos{
+    border-radius: 20px;
+}
+
+.border-8{
+    border-width: 8px !important;
+}
+
+.divisor {
+    color: rgb(240, 204, 48);
+    height: 3px !important;
+    opacity: unset !important;
+    margin-top: 20px;
+}
+
+.bg-danger {
+    background-color: rgb(150, 16, 13) !important;
+}
+
+.btn-outline-danger {
+    color: rgb(150, 16, 13);
+    border-color: rgb(150, 16, 13);
+}
+
+.btn-outline-danger:hover {
+    color: #fff;
+    background-color: rgb(150, 16, 13);
+    border-color: rgb(150, 16, 13);
+
+}
+
+.fondo-imagen {
+    background-image: url(../imagenes/FB_IMG_1588712659047.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-x: -5%;
+    background-position-y: 130%;
+
+}
